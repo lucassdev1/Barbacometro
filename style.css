@@ -1,0 +1,31 @@
+.container{
+    color: rgb(0, 0, 0);
+    font-family: Eurostile;
+    font-weight: 700;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: rgba(92, 188, 243, 0.671);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#conteiner2{
+    font-style: oblique;
+}
+
+#mb1{
+    font-family: Lobster;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.bt-deoration{
+    text-align: center;
+}
